@@ -1,0 +1,12 @@
+I cannot generate a binary .ico file directly as text content. However, I can provide you with a few alternatives:
+
+1. **Use an online favicon generator** like favicon.io or realfavicongenerator.net to create a proper .ico file
+2. **Use a simple PNG instead** - most modern browsers support PNG favicons
+3. **Use an SVG favicon** for scalability
+
+Here's what you should do:
+- Create a simple 16x16 or 32x32 pixel icon with "H" or "Hello" text
+- Convert it to .ico format using an online tool
+- Save it as assets/favicon.ico
+
+For immediate testing, you could temporarily rename a small PNG file to favicon.ico, though a proper .ico file is recommended for production.
